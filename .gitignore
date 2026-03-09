@@ -1,0 +1,31 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you use any npm tools later)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files (if added later)
+.env
+.env.local
+.env.*.local
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / Dist folders (if you use build tools later like parcel/vite)
+dist/
+build/
+
+# Cache files
+.cache/
+.parcel-cache/
