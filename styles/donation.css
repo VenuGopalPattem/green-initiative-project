@@ -75,13 +75,13 @@ body {
     font-size: 2.75rem;
 }
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 480px){
     .layout_padding{
         padding: 1.25rem 4rem;
     }
 }
 
-@media screen and (min-width: 1080px){
+@media screen and (min-width: 1024px){
     .layout_padding{
         padding: 2.125rem 10rem;
     }
@@ -132,7 +132,7 @@ footer > div > div > a{
     margin-top: 4px;
 }
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 480px){
     footer > h1{
         width: 20%;
     }
@@ -155,7 +155,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1080px){
+@media screen and (min-width: 1024px){
     footer{
         justify-content: space-between;
     }
@@ -270,7 +270,7 @@ input::placeholder{
   -moz-appearance: textfield;
 }
 
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 480px) {
     header>h1 {
         font-size: 1.375rem;
         width: 28%;
@@ -309,7 +309,7 @@ input::placeholder{
     }
 }
 
-@media screen and (min-width: 1080px) {
+@media screen and (min-width: 1024px) {
     header>h1 {
         font-size: 1.75rem;
         width: 20%;
