@@ -77,7 +77,7 @@
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .layout_padding{
         padding: 2.125rem 10rem;
     }
@@ -166,7 +166,7 @@ nav > div > h2{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     nav{
         grid-template-columns: auto 15%;
     }
@@ -259,7 +259,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     footer{
         justify-content: space-between;
     }
@@ -342,7 +342,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .stop_climate_change_section{
         padding-top: 8rem;
         padding-bottom: 8rem;
@@ -405,7 +405,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .take_action_section{
         grid-template-columns: auto auto auto auto;
         column-gap: 3.5rem;
@@ -540,7 +540,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .what_we_do_session > div > p{
         font-size: 2.75rem;
         text-align: left;
@@ -682,7 +682,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .did_you_know_section_card > div > h6{
         font-size: 2.75rem;
     }
@@ -781,7 +781,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .story_section{
         flex-direction: row-reverse;
         align-items: center;
@@ -910,7 +910,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .event_section{
         padding-top: 8rem;
         padding-bottom: 8rem;
@@ -975,7 +975,10 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1023px) {
+    body {
+        width: 109%;
+    }
     .email_section {
         flex-direction: row;
         align-items: center;

@@ -195,7 +195,7 @@ header>h1 {
 }
 
 main {
-    background: transparent url('../../assets/donation/annie-spratt-427340-unsplash.png') no-repeat right center;
+    background: transparent url('../assets/donation/annie-spratt-427340-unsplash.png') no-repeat right center;
     background-size: cover;
     flex-direction: column;
 }
@@ -313,6 +313,10 @@ input::placeholder{
     header>h1 {
         font-size: 1.75rem;
         width: 20%;
+    }
+
+    body {
+        width: 100%;
     }
 
     main {
