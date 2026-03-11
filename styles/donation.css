@@ -81,7 +81,7 @@ body {
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     .layout_padding{
         padding: 2.125rem 10rem;
     }
@@ -155,7 +155,7 @@ footer > div > div > a{
     }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1023px){
     footer{
         justify-content: space-between;
     }
@@ -309,7 +309,7 @@ input::placeholder{
     }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1023px) {
     header>h1 {
         font-size: 1.75rem;
         width: 20%;
