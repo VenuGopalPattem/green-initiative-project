@@ -1,7 +1,13 @@
-*{
+*,
+*::before,
+*.after{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    width: 100%;
 }
 
 .flex{
@@ -802,7 +808,7 @@ footer > div > div > a{
     }
 
     .story_section > div > div{
-        width: 110%;
+        width: 100%;
     }
 
     .story_section{
