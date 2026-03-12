@@ -987,7 +987,7 @@ footer > div > div > a{
 
 @media screen and (min-width: 1023px) {
     body {
-        width: 109%;
+        width: 100%;
     }
     .email_section {
         flex-direction: row;
