@@ -687,6 +687,10 @@ footer > div > div > a{
         font-size: 2.75rem;
     }
 
+    body {
+        width: 100%;
+    }
+
     .did_you_know_section_card > div > p{
         font-size: 1.25rem;
     }
